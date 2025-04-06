@@ -1,15 +1,15 @@
 [
  {
-  "address": "0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802",
-  "name": "CAT Services"
+  "address": "0: UQBpsrBwMDNPID8LlUBFBnMDZzahFWZ_gUYYsYhqOqkoe2uG"
+  "name": "Wallet action serves"
  },
  {
-  "address": "0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1ba403a0f31a8",
-  "name": "TON Foundation (OLD)"
+  "address": "0: UQDOWPEiBYilUFtiwho2PqKLhOOBp7PxE_fUz6gC6AU8Qkk4 ",
+  "name": "TON Foundation"
  },
  {
-  "address": "0:21137b0bc47669b3267f1de70cbb0cef5c728b8d8c7890451e8613b2d8998270",
-  "name": "TON Ecosystem Reserve (OLD)"
+ "address": "0: UQAonEmA-c_g8qLuAHVwUausYa5a8Xro7bwlxcuswlA9tVNV ".
+  "name": "TON Ecosystem Reserve"
  },
  {
   "address": "-1:3333333333333333333333333333333333333333333333333333333333333333",
